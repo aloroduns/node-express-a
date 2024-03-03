@@ -1,0 +1,22 @@
+{
+  "name": "express-a",
+  "version": "1.0.0",
+  "description": "express-a",
+  "main": "index.js",
+  "scripts": {
+    "test": "npm test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/aloroduns/node-express-a.git"
+  },
+  "keywords": [
+    "task"
+  ],
+  "author": "Oluwadunsin",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/aloroduns/node-express-a/issues"
+  },
+  "homepage": "https://github.com/aloroduns/node-express-a#readme"
+}
